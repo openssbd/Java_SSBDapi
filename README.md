@@ -7,11 +7,11 @@ Original contributors: Kenneth H.L. Ho, Yukako Tohsato, Koji Kyoda, Shuichi Onam
 
 ## Synopsis
 
-* **Java_SSBDapi** repository contains a reference implementation of Java SSBD Class to access SSBD REST API (see  **SSBD.java** and **TestSSBD.java**)
+* **Java_SSBDapi** repository contains a reference implementation of Java SSBD Class to access [SSBD REST API](http://ssbd.qbic.riken.jp/restfulapi/) (see  **[SSBD.java](src/jp/riken/qbic/SSBD.java)** and **[TestSSBD.java](src/TestSSBD.java)**)
 
-* **TestSSBD.java** is an Java program which contains examples of using the Java SSBD Class to access SSBD for visualization and data analysis. The implementation tries to follow the Python SSBD API (see **Py_SSBDapi**).
+* **[TestSSBD.java](src/TestSSBD.java)** is an Java program which contains examples of using the Java SSBD Class to access SSBD for visualization and data analysis. The implementation tries to follow the Python SSBD API (see **[Py_SSBDapi](https:/github.com/openssbd/Py_SSBDapi) )**. The output of the file can be found [here](Output.txt)
 
-* **SSBD.java** is reference implemnetation of Java SSBD Class to access SSBD directly via SSBD REST API
+* **[SSBD.java](src/jp/riken/qbic/SSBD.java)** is reference implemnetation of Java SSBD Class to access SSBD directly via SSBD REST API
 
 ## Known issues
 
