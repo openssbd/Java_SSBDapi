@@ -7,6 +7,7 @@ Copyright (C) 2016 RIKEN/JST
 Original contributors: Kenneth H.L. Ho, Yukako Tohsato, Koji Kyoda, Shuichi Onami
 
 ## Synopsis
+* **NOTE:** The current version is no longer compatible with the current SSBD version 3.0 REST API. A newer version of the Java API interface will be released shortly.
 
 * **Java_SSBDapi** repository contains a reference implementation of Java SSBD Class to access [SSBD REST API](http://ssbd.qbic.riken.jp/restfulapi/)
 
